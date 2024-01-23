@@ -1,0 +1,10 @@
+.custom-modal {
+  --nextui--modalBodyPadding: 0;
+  --nextui--modalWidth: auto;
+  --nextui--modalHeight: auto;
+  background: transparent; /* If you want to make the modal's background transparent */
+}
+
+.custom-modal-body {
+  padding: 0;
+}

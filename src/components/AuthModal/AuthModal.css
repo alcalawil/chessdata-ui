@@ -1,0 +1,9 @@
+/* AuthModal.css */
+.clerk-sign-in .cl-component,
+.clerk-sign-in .cl-auth-form-wrapper,
+.clerk-sign-in .cl-auth-form-wrapper .cl-form-field,
+.clerk-sign-in .cl-auth-form-wrapper .cl-auth-social-btn,
+.clerk-sign-in .cl-auth-form-wrapper .cl-auth-separator {
+  box-shadow: none !important;
+  border: none !important;
+}
